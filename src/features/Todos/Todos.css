@@ -1,0 +1,22 @@
+.list-group,
+.list-group-item {
+  border-radius: 5px;
+}
+
+.form-select {
+  width: 90px;
+}
+
+.list-group-item,
+.left,
+.right {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: stretch;
+}
+.form-select{
+  width: 120px;
+}
